@@ -1,11 +1,27 @@
-﻿// Liczby pierwsze.cpp : Ten plik zawiera funkcję „main”. W nim rozpoczyna się i kończy wykonywanie programu.
-//
+﻿// Liczby pierwsze.cpp 
 
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    unsigned (lp, p);
+    cin << n;
+
+    std::cout << "Ile liczb pierwszych mam wyświetlić" >>
+
+    
+
+       lp = 0
+       p = 2
+        
+
+
+
+
+
+
+
 }
 
 // Uruchomienie programu: Ctrl + F5 lub menu Debugowanie > Uruchom bez debugowania
